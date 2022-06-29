@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+- 🌱 I’m currently learning Swift, Algorithm ✍🏻
+- 🎖 I want to be an IOS app developer ❣️
+
 <!--
 **KyubinLe/kyubinle** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
