@@ -3,6 +3,8 @@
 - 🌱 I’m currently learning Swift, Algorithm ✍🏻
 - 🎖 I want to be an IOS app developer ❣️
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kyubinle&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
 ## Tech Stack 
 <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=C%2B%2B&logoColor=white"/></a>
