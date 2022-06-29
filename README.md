@@ -9,7 +9,7 @@
 <img src="https://img.shields.io/badge/JAVA-9cf?style=flat-square&logo=Java&logoColor=white"/></a>
 
 # Learning
-<img src="https://img.shields.io/badge/Swift-F05138?style=flat-square&logo=C%2B%2B&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/Swift-F05138?style=flat-square&logo=swift&logoColor=white"/></a>
 
 <!--
 **KyubinLe/kyubinle** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
