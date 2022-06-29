@@ -4,7 +4,7 @@
 - 🎖 I want to be an IOS app developer ❣️
 
 
-<img src="https://img.shields.io/badge/C?style=flat-square&logo=C&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/C-A8B9CCstyle=flat-square&logo=C&logoColor=white"/></a>
 
 <!--
 **KyubinLe/kyubinle** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
