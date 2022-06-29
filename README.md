@@ -1,6 +1,6 @@
 # Hi there 👋 I'm Kyubin 🙌🏻
 
-- 🌱 I’m currently learning Swift, Algorithm ✍🏻
+- 🌱 I’m learning Swift, Algorithm ✍🏻
 - 🎖 I want to be an IOS app developer ❣️
 
 ## Tech Stack 
