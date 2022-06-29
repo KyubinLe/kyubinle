@@ -6,7 +6,7 @@
 ## Tech Stack 
 <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=C%2B%2B&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white"/></a>
 
 ### Learning
 <img src="https://img.shields.io/badge/Swift-F05138?style=flat-square&logo=swift&logoColor=white"/></a>
