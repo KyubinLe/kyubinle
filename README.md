@@ -17,10 +17,10 @@
 ## 😆 Me 😎
 <a href="instagram.com/kyubin_lee"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white"/></a>
 <a href="mailto:kyubin@kakao.com"><img src="https://img.shields.io/badge/Mail-FFCD00?style=flat-square&logo=gmail&logoColor=white"/></a>
-</div>
+
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kyubinle&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
+</div>
 <!--
 **KyubinLe/kyubinle** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
